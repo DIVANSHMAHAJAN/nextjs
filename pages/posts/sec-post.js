@@ -1,5 +1,5 @@
 
-export default function SecondPost() {
+export default function SecondPostFunc() {
     return (
     <>
     <h1>First Post By Divansh Mahajan</h1>
